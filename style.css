@@ -1,0 +1,29 @@
+.link {
+    color: black;
+    background-color: rgb(243, 247, 6);
+}
+
+h1 {
+    width: 50%;
+    margin: 0;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgba(82, 74, 74, 0.299);
+    color: rgb(187, 180, 180)
+    text-align: left
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.step-class {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(98, 8, 8);
+}
+
